@@ -58,7 +58,7 @@ function SignInButton() {
 
   return (
     <button onClick={signInWithGoogle}>
-      <p>グーグルでサインイン</p>
+      <p>Googleでサインイン</p>
     </button>
   );
 }
